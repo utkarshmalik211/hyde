@@ -10,12 +10,12 @@ permalink:        pretty
 title:            Hyde
 tagline:          'A Jekyll theme'
 description:      'A brazen two-column <a href="http://jekyllrb.com" target="_blank">Jekyll</a> theme that pairs a prominent sidebar with uncomplicated content. Made by <a href="https://twitter.com/mdo" target="_blank">@mdo</a>.'
-url:              http://hyde.getpoole.com
-baseurl:          /
+url:              https://utkarshmalik211.github.io
+baseurl:          /blog
 
 author:
-  name:           'Mark Otto'
-  url:            https://twitter.com/mdo
+  name:           'Utkarsh Malik'
+  url:            https://utkarshmalik211.github.io
 
 paginate:         5
 
